@@ -18,3 +18,6 @@ status on the friday project.
 
 
  
+status on tuesday: made all the exercises
+status on wednesday: made all the exercises
+status on thursday: made none of the exercises
